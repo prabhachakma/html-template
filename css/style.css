@@ -1,0 +1,25 @@
+.header{
+	min-height: 80px;
+	background-color: red;
+}
+.container{
+	overflow: hidden;
+	border: 5px solid yellow;
+}
+.contact{
+	height: 150px;
+	width: 60%;
+	background-color: blue;
+	float: left;
+}
+.blog{
+	height: 150px;
+	width: 40%;
+	background-color: green;
+	float: right;
+}
+.footer{
+	min-height: 80px;
+	background-color: black;
+	/*clear: both;*/
+}
